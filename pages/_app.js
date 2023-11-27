@@ -11,7 +11,7 @@ function App ({Component, pageProps}) {
     return(
         <>
             <Head><title>metauni - metacampus UNI</title></Head>
-            <div className='bg-red-500 w-full h-1 fixed top'></div>
+            <div className='bg-white w-full h-1 fixed top'></div>
             <Component {...pageProps}/>
         </> 
     )

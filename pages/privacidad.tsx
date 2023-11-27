@@ -48,7 +48,7 @@ function Privacidad() {
 
             <h2>6. Preguntas y Contacto:</h2>
 
-            <p>6.1 Consultas: Si tienes preguntas sobre esta Política de Privacidad, contáctanos en <Link href="mailto:ola@metauni.club" className='font-bold underline'>ola@metauni.club</Link>.</p>
+            <p>6.1 Consultas: Si tienes preguntas sobre esta Política de Privacidad, contáctanos en <Link href="mailto:oli@metauni.club" className='font-bold underline'>oli@metauni.club</Link>.</p>
 
             <p>Gracias por confiar en METAUNI. Tu privacidad es fundamental, y nos comprometemos a protegerla mientras te brindamos una experiencia educativa única y personalizada.</p>
 <br></br>
