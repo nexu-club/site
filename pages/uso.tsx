@@ -12,14 +12,14 @@ function Uso() {
             <br></br>
             <p>Bienvenido a METAUNI. Te agradecemos por ser parte de nuestra comunidad. Antes de utilizar nuestros servicios en <Link href="https://metauni.club" className='font-bold'>metauni.club</Link>, por favor, asegúrate de leer y comprender nuestros Términos de Uso. Al acceder o utilizar nuestro sitio, aceptas estar sujeto a estos términos y condiciones.</p>
             <br></br>
-            <h2>1. Uso Exclusivo del Código UNI:</h2>
-            <p>- METAUNI está destinado exclusivamente para estudiantes activos, egresados, catedráticos o personal de la Universidad Nacional de Ingeniería (UNI) que posean un código UNI válido. El uso del sitio se limita estrictamente a esta comunidad.</p>
+            <h2>1. Uso inclusivo:</h2>
+            <p>- METAUNI está abierto a cualquier persona interesada en la tecnología blockchain y la Web3. Como parte de nuestra política de uso, nos comprometemos a mantener un entorno inclusivo y accesible para todos los miembros de la comunidad. </p>
             <br></br>
             <h2>2. Suplantación de Identidad:</h2>
             <p>- Queda terminantemente prohibida la suplantación de identidad. Cualquier intento de utilizar un código UNI que no pertenezca al usuario resultará en la inmediata retirada del acceso a METAUNI.</p>
             <br></br>
             <h2>3. Integridad de la Información:</h2>
-            <p>- Los usuarios son responsables de mantener la confidencialidad de su código UNI y cualquier información asociada. No compartas tu código UNI ni permitas que otros lo utilicen en METAUNI.</p>
+            <p>- Los usuarios son responsables de mantener la confidencialidad de su código METAUNI y cualquier información asociada. No compartas tu código METAUNI ni permitas que otros lo utilicen en METAUNI.</p>
             <br></br>
             <h2>4. Conducta Responsable:</h2>
             <p>- Se espera que todos los usuarios de METAUNI actúen de manera respetuosa y ética. El uso del sitio debe cumplir con las normas y regulaciones establecidas por la UNI y la legislación aplicable.</p>
